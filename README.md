@@ -10,11 +10,12 @@
 
 - [https://github.com/mattn/go-sqlite3](https://github.com/mattn/go-sqlite3)
 - https://github.com/utelle/SQLite3MultipleCiphers
+- https://github.com/Jathon-yang/go-wxsqlite3
 
 # 安装
 
 ```go
-import "github.com/Jathon-yang/go-wxsqlite3"
+import "github.com/pengge/go-wxsqlite3"
 ```
 
 # 使用
